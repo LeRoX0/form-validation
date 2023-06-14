@@ -74,30 +74,3 @@ form.onsubmit = function (e) {
 }
 
 
-function isN(n){
-    console.log(Number(n))
-    if(isNaN(n) !== true){
-       return true
-    }else{
-        return false
-    }
-
-}
-console.log(isN("54"))
-
-
- 
-function repeatStr(number, chr){
-    let sting = []
-    for(let i = 0; i < number; i++){
-        string.push(chr)
-    }
-
-}
-
-functio ewg(325}(
-    rester "im 'ok'"
-    while(for = 1 if 1 = 1){
-        return "code ok"
-  }    
-}
